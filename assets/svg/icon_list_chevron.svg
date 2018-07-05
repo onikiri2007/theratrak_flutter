@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-list-chevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.51307059,6.43936531 L1.29616148,0.222456194 C0.999553223,-0.0741520648 0.519038352,-0.0741520648 0.222449076,0.222456194 C-0.0741402004,0.519064453 -0.0741591833,0.999579325 0.222449076,1.2961686 L5.90479892,6.97851844 L0.220360954,12.7060477 C-0.074766637,13.0033962 -0.0732859686,13.4846515 0.224070218,13.7797601 C0.372374347,13.9265816 0.565914796,14 0.758705419,14 C0.953717044,14 1.14948799,13.9251067 1.29778262,13.7753181 L7.51469174,7.51095162 C7.80981933,7.21434337 7.80907899,6.73532815 7.51320727,6.43946022 L7.51307059,6.43936531 Z" id="icon-list-chevron" fill="#B0B0B0"></path>
+    </g>
+</svg>

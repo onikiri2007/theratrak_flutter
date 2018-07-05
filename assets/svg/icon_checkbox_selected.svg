@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-checkbox-selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-checkbox-selected">
+            <g id="Group-2" fill="#00A9A0" stroke="#00A9A0">
+                <rect id="Rectangle-2" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+            </g>
+            <path d="M9.62201083,16.1028248 C9.86993478,16.3507487 10.1886941,16.4570018 10.5074535,16.4570018 C10.8262129,16.4570018 11.1095545,16.3507487 11.3574785,16.1028248 L18.6889439,9.12553639 C19.1847918,8.66510619 19.2202096,7.88591663 18.7243616,7.39006872 C18.2639315,6.89422082 17.4847419,6.85880311 16.988894,7.35465102 L10.5074535,13.4819144 L7.1427713,10.1172322 C6.6469234,9.6213843 5.86773383,9.6213843 5.37188593,10.1172322 C4.87603802,10.6130801 4.87603802,11.3922697 5.37188593,11.8881176 L9.62201083,16.1028248 Z" id="Fill-1" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

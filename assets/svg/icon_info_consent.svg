@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_info_consent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_info_consent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval-2" stroke="#58585A" stroke-width="4" cx="40" cy="40" r="38"></circle>
+            <path d="M49.0536902,31.0099714 C48.4020987,31.0698097 47.7770944,31.3922863 47.3515625,31.8875884 L36.9787965,43.722482 L32.0851795,40.0522693 C31.0213497,39.2244735 29.295988,39.4505416 28.4814348,40.5243459 C27.6669412,41.5981331 27.9162774,43.3202608 29.0000561,44.1214523 L35.8085668,49.2278352 C36.8225242,49.9957842 38.4249072,49.8362097 39.2660136,48.8820905 L51.1809072,35.2650693 C51.8657497,34.5070948 52.0286433,33.3236225 51.5698689,32.4093246 C51.1144136,31.498431 50.0705497,30.9166437 49.0532731,31.0097501 L49.0536902,31.0099714 Z" id="Path" fill="#520099"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,94 @@
+name: theratrack
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  flutter_svg: ^0.3.2
+  quiver: '>=0.29.0 <0.30.0'
+  validator: '>=0.0.4 <0.1.0'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/svg/bg_gradient.svg
+    - assets/svg/component_logo_login.svg
+    - assets/svg/icon_activitycard_img_add.svg
+    - assets/svg/icon_activitycard_img_added.svg
+    - assets/svg/icon_activitycard_img_default.svg
+    - assets/svg/icon_activitycard_vid_add.svg
+    - assets/svg/icon_activitycard_vid_added.svg
+    - assets/svg/icon_activitycard_vid_default.svg
+    - assets/svg/icon_checkbox_default.svg
+    - assets/svg/icon_checkbox_selected.svg
+    - assets/svg/icon_email.svg
+    - assets/svg/icon_history_progress.svg
+    - assets/svg/icon_history_upload.svg
+    - assets/svg/icon_info_clients.svg
+    - assets/svg/icon_info_consent.svg
+    - assets/svg/icon_info_no_connection.svg
+    - assets/svg/icon_info_sent.svg
+    - assets/svg/icon_list_chevron.svg
+    - assets/svg/icon_menu_activities.svg
+    - assets/svg/icon_menu_clients.svg
+    - assets/svg/icon_menu_history.svg
+    - assets/svg/icon_menu_settings.svg
+    - assets/svg/icon_password_rev.svg
+    - assets/svg/icon_password.svg
+    - assets/images/bg_gradient.png
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+   - family: SFUIDisplay
+     fonts:
+       - asset: assets/fonts/SFUIDisplay-Regular.ttf
+   - family: SFUIText
+     fonts:
+       - asset: assets/fonts/SFUIText-Regular.ttf
+       - asset: assets/fonts/SFUIText-Light.ttf
+         weight: 300
+       - asset: assets/fonts/SFUIText-Medium.ttf
+         weight: 500
+       - asset: assets/fonts/SFUIText-Semibold.ttf
+         weight: 600
+   - family: Roboto
+     fonts:
+       - asset: assets/fonts/Roboto-Regular.ttf
+       - asset: assets/fonts/Roboto-Light.ttf
+         weight: 300
+       - asset: assets/fonts/Roboto-Medium.ttf
+         weight: 500
+       - asset: assets/fonts/Roboto-Bold.ttf
+         weight: 700  
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
